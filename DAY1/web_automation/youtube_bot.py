@@ -2,8 +2,8 @@
 # MAC/LINUX: pip3 install selenium
 from selenium import webdriver
 
-# WINDOWS: pip install webdriver-manager
-# MAC/LINUX: pip3 install webdriver-manager
+# WINDOWS: pip install webdriver_manager
+# MAC/LINUX: pip3 install webdriver_manager
 from webdriver_manager.chrome import ChromeDriverManager
 
 # we are using `time` to wait program for 'x' seconds
